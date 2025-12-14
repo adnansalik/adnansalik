@@ -1,4 +1,4 @@
-# Hi 👋, I'm Adnan Saliq
+# Hi, I'm Adnan Saliq
 
 🚀 **Integration Engineer | Backend Developer | Cloud & Serverless Enthusiast**
 
@@ -13,31 +13,6 @@ My work focuses on designing reliable middleware, event driven services, and hig
 - Build **integration layers** between internal systems and third-party APIs
 - Process **high volume data** efficiently with cost-optimized archit
 - Chill over weekends playing video games or reading
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-- Java
-- Groovy
-- SQL
-
-**Backend & Integration**
-- AWS Lambda
-- REST APIs
-- Event-driven architectures
-- Apache HttpClient
-- Maven
-
-**Cloud & DevOps**
-- AWS (Lambda, SQS, DynamoDB, S3, CloudWatch)
-- Serverless Architecture
-- CI/CD Pipelines
-
-**Databases**
-- DynamoDB
-- MySQL / Relational Databases
 
 ---
 
