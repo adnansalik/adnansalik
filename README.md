@@ -5,8 +5,6 @@
 I build scalable backend and integration systems using **Java, Groovy, and AWS Serverless architectures**.  
 My work focuses on designing reliable middleware, event driven services, and high throughput data pipelines.
 
----
-
 ## 🧠 What I Do
 
 - Design and develop **serverless middleware** using AWS Lambda
@@ -14,16 +12,12 @@ My work focuses on designing reliable middleware, event driven services, and hig
 - Process **high volume data** efficiently with cost-optimized archit
 - Chill over weekends playing video games or reading
 
----
-
 ## 📈 Currently Focused On
 
 - Advanced backend system design
 - Java & Spring Boot ecosystem
 - Scalable cloud-native architectures
 - Preparing for long-term growth as a **Software Engineer**
-
----
 
 ## 📫 Let's Connect
 
